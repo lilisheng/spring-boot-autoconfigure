@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * 
  * @author zern
- * @date 2017年5月1日 下午10:24:32
+ * 2017年5月1日 下午10:24:32
  * @see <a href="https://github.com/alibaba/druid/wiki/%E9%85%8D%E7%BD%AE_%E9%85%8D%E7%BD%AEWebStatFilter">配置WebStatFilter</a>
  */
 @ConditionalOnProperty(name = "spring.datasource.druid.StatFilter.enabled", havingValue = "true", matchIfMissing = true)

@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * The Druid stat view servlet configuration.
  * @author zern
- * @date 2017年5月1日 下午10:25:49
+ * 2017年5月1日 下午10:25:49
  * @see <a href="https://github.com/alibaba/druid/wiki/%E9%85%8D%E7%BD%AE_StatViewServlet%E9%85%8D%E7%BD%AE">StatViewServlet配置</a>
  */
 @ConditionalOnProperty(name = "spring.datasource.druid.StatViewServlet.enabled", havingValue = "true", matchIfMissing = true)

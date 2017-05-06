@@ -8,7 +8,7 @@
   <parent>
 		<groupId>com.github.zern-king</groupId>
 		<artifactId>spring-boot-parent</artifactId>
- 		<version>0.0.1-SNAPSHOT</version>
+ 		<version>0.0.1</version>
  		<relativePath>../spring-boot-parent</relativePath>
   </parent>
   <name>spring-boot-autofigure Extended</name>

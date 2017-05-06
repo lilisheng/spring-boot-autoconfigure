@@ -5,7 +5,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * 
  * @author zern
- * @date 2017年5月1日 下午10:25:18
+ * 2017年5月1日 下午10:25:18
  * @see <a href="https://github.com/alibaba/druid/wiki/%E9%85%8D%E7%BD%AE_DruidDataSource%E5%8F%82%E8%80%83%E9%85%8D%E7%BD%AE">DruidDataSource参考配置</a>
  */
 @ConfigurationProperties("spring.datasource.druid")
